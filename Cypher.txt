@@ -1,0 +1,10 @@
+That is the doc-t number 1 1476
+That is the doc-t number 2 3198
+That is the doc-t number 3 1230
+That is the doc-t number 4 8241
+That is the doc-t number 5 12177
+That is the doc-t number 6 1476
+That is the doc-t number 7 11070
+That is the doc-t number 8 246
+That is the doc-t number 9 8241
+That is the doc-t number 10 3444
